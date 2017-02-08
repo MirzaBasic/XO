@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="17"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="217502270382009"
+    token="8060626484388750322"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="H:\Android\XO-game\XO\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="217309838731859"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="H:\Android\XO-game\XO\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="217502270382009"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="H:\Android\XO-game\XO\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

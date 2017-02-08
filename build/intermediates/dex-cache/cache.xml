@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6099869ae935b15e5c328cc0d01d17311736c827">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\instant-run_fa3b8ad7036f9482ccffdb8ad106d4f8791bc8d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_9545d54265cb026f789335528b674b96f4fc9cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_966594fcc7cba632b4152645d17bdaae3dc097a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_9fefa252a76c7a4799df99704ce6e1dd3ad7ee6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_e0cb06a0b24e71dafb49c3f24cae2e445e6bae5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ee2695f83cbf262298679313fb64e9e2466b7734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_9d440ed49a308cb4a88d342a449b8dad019643d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_d4001594e77d732a7a49211cd7212b575326943d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e373f0143f7e890f464c3b8e73ad16a872b7bfa9">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8a78599dbf01042417fa2452c51fa8a5d3cf3d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_558e796dc7bddb04b4f0e7e4bce7647ef60e01e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mirza\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_a445422470754f52d400beca42ae1313a7f91822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_775d6e15178cfabd8ff2de95b8ea8364be409006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9d427840d5ce4a0bdfa52557bc230155aa271490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_31cb0a5e1f9d3be4c3c269c436794a35c65e11c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_26ad03adbf3b754ba86864b083d209e2680758f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c2bc1a1bcff6b297c5710df027a4a3c1553419a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Android\XO-game\XO\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="H:\Android\XO-game\XO\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_5e9da06ee0274992027bc8ee9f2842917a5127bd.jar" />
+    </item>
+
+</items>
